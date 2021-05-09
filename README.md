@@ -1,7 +1,7 @@
 ![alt text](main.png)
 
 
-You can use this site at https://empty-wind-6029.on.fleek.co/
+You can use view site at https://empty-wind-6029.on.fleek.co/
 
 To run on a local machine
 1. git clone the repository
