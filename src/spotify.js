@@ -2,7 +2,7 @@
 
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://empty-wind-6029.on.fleek.co";
 
 const clientId = "7b1ce4c9a06d400d8a5b6988961b389c";
 
